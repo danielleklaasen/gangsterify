@@ -23,4 +23,7 @@
     "url": "https://github.com/danielleklaasen/gangsterify/issues"
   },
   "homepage": "https://github.com/danielleklaasen/gangsterify#readme",
+  "dependencies": {
+    "urban-dictionary": "^2.2.1"
+  }
 }
