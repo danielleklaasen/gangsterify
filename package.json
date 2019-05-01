@@ -1,0 +1,26 @@
+{
+  "name": "@danielleklaasen/gangsterify",
+  "version": "1.0.0",
+  "description": "Transforms boring texts into street slang. Hit install & talk to your fat ass later bro! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "text",
+    "transform",
+    "slang",
+    "gangster",
+    "nsfw"
+  ],
+  "author": "Danielle Klaasen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielleklaasen/gangsterify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielleklaasen/gangsterify/issues"
+  },
+  "homepage": "https://github.com/danielleklaasen/gangsterify#readme",
+}
