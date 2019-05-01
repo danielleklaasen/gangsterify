@@ -1,2 +1,2 @@
 # Gangsterify
-An NPM module that transforms texts into street slang.
+NPM module that transforms texts into street slang.
