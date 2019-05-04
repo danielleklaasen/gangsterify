@@ -2,9 +2,12 @@
   "name": "@danielleklaasen/gangsterify",
   "version": "1.0.0",
   "description": "Transforms boring texts into street slang. Hit install & talk to your fat ass later bro! ",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
-    "test": "node test.js"
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "lint": "tslint --project \"./tsconfig.json\"",
+    "test": "mocha --reporter spec"
   },
   "keywords": [
     "text",
@@ -25,5 +28,14 @@
   "homepage": "https://github.com/danielleklaasen/gangsterify#readme",
   "dependencies": {
     "urban-dictionary": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^12.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
   }
 }
