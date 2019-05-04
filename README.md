@@ -1,2 +1,2 @@
 # Gangsterify
-NPM module that transforms texts into street slang.
+Transforms boring texts into street slang. Hit install & talk to your fat ass later bro! 
