@@ -1,2 +1,2 @@
-# Gangsterify
-NPM package to transform boring texts into street slang. Hit install & talk to your fat ass later bro! 
+# Gangster-ipsum
+NPM package to retrieve gangster ipsum placeholder text for your app. Hit install & talk to your fat ass later bro! 
